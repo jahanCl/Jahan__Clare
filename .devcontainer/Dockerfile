@@ -6,5 +6,3 @@ RUN npm install -g @vue/cli
 # Install Flask 
 RUN pip3 install flask
 
-# Set working directory
-WORKDIR /app
